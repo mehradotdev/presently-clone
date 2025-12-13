@@ -3,7 +3,7 @@
 This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
  You can find docs about Chef with useful information like how to deploy to production [here](https://docs.convex.dev/chef).
   
-This project is connected to the Convex deployment named [`neighborly-capybara-557`](https://dashboard.convex.dev/d/neighborly-capybara-557).
+This project is connected to the Convex deployment named [`unique-terrier-968`](https://dashboard.convex.dev/d/unique-terrier-968).
   
 ## Project structure
   
@@ -11,7 +11,7 @@ The frontend code is in the `app` directory and is built with [Vite](https://vit
   
 The backend code is in the `convex` directory.
   
-`pnpm run dev` will start the frontend and `pnpm run dev:backend` will start the backend server.
+`npm run dev` will start the frontend and backend servers.
 
 ## App authentication
 
